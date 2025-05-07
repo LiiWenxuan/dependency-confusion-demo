@@ -5,6 +5,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "company-utils"
+    "company-utils": "^2.0.0"
   }
 }
