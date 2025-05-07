@@ -1,4 +1,4 @@
 const utils = require("company-utils");
 
-console.log("🚀 Running victim project...");
+console.log(" Running victim project...");
 utils.hello();
